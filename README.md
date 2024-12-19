@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Countdown-Timer.git
+    git clone https://github.com/abhishekboadgurjar/Countdown-Timer.git
     ```
 
 2. **Open the project directory**:
@@ -47,7 +47,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Countdown Timer [here](https://abhishekgurjar-in.github.io/Countdown-Timer/).
+You can check out the live demo of the Countdown Timer [here](https://abhishekboadgurjargithub.io/Countdown-Timer/).
 
 
 ## Screenshots
@@ -64,5 +64,5 @@ This project was inspired by the need for a simple and effective countdown tool 
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
 
